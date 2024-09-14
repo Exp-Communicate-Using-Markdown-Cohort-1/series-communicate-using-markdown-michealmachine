@@ -5,3 +5,6 @@
 class Test{
 }
 ```
+- [x] Go to school
+- [ ] Sleeping
+- [ ] Flying 
